@@ -8,7 +8,16 @@ body {
 header img {
 	float: left;
 }
-
+h2{
+	font-size: 170%;
+	color: #800000;
+	indent: 30px; 
+}
+h3{
+	font-size: 130%;
+	font-style: italic;
+	indent: 30px;
+}
 /* the styles for the section */
 main {
 	clear: left;
