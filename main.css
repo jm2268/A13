@@ -14,7 +14,9 @@ h2{
 	indent: 30px;
 	
 }
-#border{top-border: solid 3px }
+#border{width: 800px;
+	margin: 0 auto;
+	top-border: solid 3px }
 h3{
 	font-size: 130%;
 	font-style: italic;
