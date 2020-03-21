@@ -11,7 +11,8 @@ header img {
 h2{
 	font-size: 170%;
 	color: #800000;
-	indent: 30px; 
+	indent: 30px;
+	border-bottom: 3px solid color=red;
 }
 h3{
 	font-size: 130%;
