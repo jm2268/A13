@@ -12,8 +12,9 @@ h2{
 	font-size: 170%;
 	color: #800000;
 	indent: 30px;
-	border-bottom: 3px solid color=red;
+	
 }
+#border{top-border: solid 3px }
 h3{
 	font-size: 130%;
 	font-style: italic;
