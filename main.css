@@ -23,8 +23,8 @@ h2{
 }
 #border2{width: 800px;
 	margin: 0 auto;
-	top-border: solid 3px;
-	bottom-border: solid 3px;
+	border-top: solid 3px;
+	border-bottom: solid 3px;
         
 h3{
 	font-size: 130%;
