@@ -16,7 +16,7 @@ h2{
 }
 #border2{width: 800px;
 	margin: 0 auto;
-	top-border: solid 3px }
+	border: solid 3px }
 h3{
 	font-size: 130%;
 	font-style: italic;
