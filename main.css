@@ -8,15 +8,14 @@ body {
 header img {
 	float: left;
 }
-header{
-	h2{font-size: 170%;
+header h2{font-size: 170%;
 	   color: #800000;
 	   text-indent: 30px;}
          
-	h3{font-size: 130%;
+header h3{font-size: 130%;
 	   font-style: italic;
 	   text-intent: 30px;}
-}
+
 	
 body{width:600px;
       margin-top: 0em;
