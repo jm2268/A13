@@ -22,22 +22,15 @@ body{width:600px;
       margin-bottom: 0em;
       border:3px color#931420;
       background-color: #fffded;}
-h2{
-	font-size: 170%;
-	color: #800000;
-	indent: 30px;
-	
-}
-#border2{width: 800px;
-	margin: 0 auto;
-	border-top: solid 3px;
-	border-bottom: solid 3px;
-}
-        
-h3{
+main h1{
+	font-size;150%;}
+main h2{
 	font-size: 130%;
-	font-style: italic;
-	indent: 30px;
+	color: #800000;
+	}
+        
+main h3{
+	font-size: 105%;
 }
 /* the styles for the section */
 main {
