@@ -47,16 +47,37 @@ main h1{
 	font-size: 150%;
         border-top: 3px solid #931420;
 	border-bottom: 3px solid #931420;
+	padding-top: .3em;
+	padding-bottom .3em;
 }
 main h2{
 	font-size: 130%;
 	color: #800000;
+	padding-top: .5em;
+	padding-bottom .25em;
 	}
         
 main h3{
 	font-size: 105%;
+	padding-bottom: .25em;
 }
-
+img{
+	padding-bottom: 1em;
+}
+p{
+	padding-bottom: .5em;
+}
+block quote{ 
+	padding-top: 2em;
+	padding-bottom 2em;
+}
+ul{ 
+	padding-bottom: .25em;
+	padding-left: 1.25em;
+}
+li{
+	padding-bottom: .35em;
+}
 /* the styles for the footer */
 footer {
 	text-align: center;
