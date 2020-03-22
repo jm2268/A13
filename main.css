@@ -19,8 +19,10 @@ header h3{font-size: 130%;
 	
 body{width:600px;
       margin-top: 0em;
+      margin-right: auto;
       margin-bottom: 0em;
-      border:3px color#931420;
+      margin-left: auto;
+      border:3px solid #931420;
       background-color: #fffded;}
 main h1{
 	font-size;150%;}
