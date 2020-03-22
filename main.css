@@ -5,6 +5,9 @@ body {
 }
 
 /* the styles for the header */
+header{
+	border-bottom: 3px solid #931420;
+}
 header img {
 	float: left;
 }
@@ -25,7 +28,10 @@ body{width:600px;
       border:3px solid #931420;
       background-color: #fffded;}
 main h1{
-	font-size;150%;}
+	font-size: 150%;
+        top-border: 3px solid #931420;
+	bottom-border: 3px solid #931420;
+}
 main h2{
 	font-size: 130%;
 	color: #800000;
@@ -42,4 +48,6 @@ main {
 /* the styles for the footer */
 footer {
 	text-align: center;
+	top-border: 3px solid #931420;
+	bottom-border: 3px solid #931420;
 }
