@@ -16,11 +16,11 @@ header{
 	h3{font-size: 130%;
 	   font-style: italic;
 	   text-intent: 30px;}
-
+}
 	
 body{width:600px;
-      top-margin:0px;
-      bottom-margin:0px;
+      margin-top: 0em;
+      margin-bottom: 0em;
       border:3px color#931420;
       background-color: #fffded;}
 h2{
