@@ -57,14 +57,14 @@ aside{  width: 215px;
 }
 
 
-main h2{
+section h2{
 	font-size: 130%;
 	color: #800000;
 	padding-top: .5em;
 	padding-bottom: .25em;
 	}
         
-main h3{
+aside h3{
 	font-size: 105%;
 	padding-bottom: .25em;
 }
