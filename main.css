@@ -63,7 +63,10 @@ section h2{
 	padding-top: .5em;
 	padding-bottom: .25em;
 	}
-        
+aside h2{ font-size: 130%;
+	  color: #800000;
+	  padding-top: .5em;
+	  padding-bottom: .25em;
 aside h3{
 	font-size: 105%;
 	padding-bottom: .25em;
