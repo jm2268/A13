@@ -37,20 +37,22 @@ main {
 	padding-right: 30px;
 	padding-left: 30px;
 }
-body{width:600px;
+body{width:800px;
       margin-top: 0;
       margin-right: auto;
       margin-bottom: 0;
       margin-left: auto;
       border:3px solid #931420;
       background-color: #fffded;}
-main h1{
-	font-size: 150%;
-        border-top: 3px solid #931420;
-	border-bottom: 3px solid #931420;
-	padding-top: .3em;
-	padding-bottom: .3em;
+section{
+        width: 525px;
+        float: right;
 }
+aside{  width: 215px;
+	float:right;
+}
+
+
 main h2{
 	font-size: 130%;
 	color: #800000;
@@ -88,4 +90,5 @@ footer {
 	background-color: #931420;
 	color: white;
 	padding-bottom: 1em;
+	clear: both;
 }
