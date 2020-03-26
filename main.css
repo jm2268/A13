@@ -55,19 +55,17 @@ aside{  width: 215px;
 	padding-bottom: 20px;
 	padding-left: 20px;
 }
-
-
-section h2{
+h2{
 	font-size: 130%;
 	color: #800000;
 	padding-top: .5em;
 	padding-bottom: .25em;
 	}
-aside h2{ font-size: 130%;
+h2{ font-size: 130%;
 	  color: #800000;
 	  padding-top: .5em;
 	  padding-bottom: .25em;
-aside h3{
+h3{
 	font-size: 105%;
 	padding-bottom: .25em;
 }
@@ -90,7 +88,7 @@ li{
 	padding-bottom: .35em;
 }
 /* the styles for the footer */
-body footer {
+ footer {
 	text-align: center;
 	border-top: 3px solid #931420;
 	border-bottom: 3px solid #931420;
