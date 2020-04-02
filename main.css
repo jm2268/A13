@@ -54,6 +54,9 @@ header h3 {
 	  color: white;
 	  font-weight: bold;
 }
+#nav_menu ul li.current a{
+          color: yellow;
+}
 
 /* the styles for the section */
 main {
