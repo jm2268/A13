@@ -36,12 +36,11 @@ header h3 {
 	font-size: 130%;
 	font-style: italic;
 }
-# nav_menu{ 
-	 position: relative;
-}
+
 # nav_menu ul{ 
 	 list-style-type: none;
-         margin: 0;
+         position: relative; 
+	 margin: 0;
 	 padding: 0;
 	 
 }
@@ -60,6 +59,11 @@ header h3 {
 }
 #nav_menu ul li.current a{
           color: yellow;
+}
+#nav_menu ul ul {
+           display: none;
+           position: absolute;
+           top: 100%
 }
 
 /* the styles for the section */
