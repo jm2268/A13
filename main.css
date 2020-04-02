@@ -69,9 +69,15 @@ header h3 {
             float: none;
 	    position: relative;
 }
-#nav_menu ul li: hover > ul { 
+#nav_menu ul li:hover > ul { 
 	    display: block;
 }
+#nav_menu > ul :: after {
+	    content:"";
+	    clear: both;
+	    display block;
+}	
+
 /* the styles for the section */
 main {
 	clear: left;
