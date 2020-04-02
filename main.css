@@ -36,11 +36,14 @@ header h3 {
 	font-size: 130%;
 	font-style: italic;
 }
+# nav_menu{ 
+	 position: relative;
+}
 # nav_menu ul{ 
 	 list-style-type: none;
          margin: 0;
 	 padding: 0;
-	 position: relative;
+	 
 }
 #nav_menu ul li{
 	  float: left;
