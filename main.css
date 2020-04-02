@@ -36,6 +36,24 @@ header h3 {
 	font-size: 130%;
 	font-style: italic;
 }
+# nav_menu ul{ 
+	 list-style-type: none;
+         margin: 0;
+         padding: 0;
+}
+#nav_menu ul li{
+	  float: left;
+}
+#nav_menu ul li a { 
+	  display: block;
+	  width: 160px;
+          padding-top: 1em;
+	  padding-bottom: 1em;
+	  text-decoration: none;
+	  background-color: #800000;
+	  text-color: white;
+	  font-weight: bold;
+}
 
 /* the styles for the section */
 main {
