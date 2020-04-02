@@ -36,16 +36,16 @@ header h3 {
 	font-size: 130%;
 	font-style: italic;
 }
-# nav_menu ul{ 
+# nav_menu{ 
 	 list-style-type: none;
          margin: 0;
 	 padding: 0;
 }
-#nav_menu ul li{
+#nav_menu li{
 	  float: left;
 	  list-style-type: none;
 }
-#nav_menu ul li a { 
+#nav_menu li a { 
 	  display: block;
 	  width: 160px;
           padding: 1em;
@@ -54,7 +54,7 @@ header h3 {
 	  color: white;
 	  font-weight: bold;
 }
-#nav_menu ul li.current a{
+#nav_menu li.current a{
           color: yellow;
 }
 
