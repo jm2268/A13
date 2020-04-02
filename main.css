@@ -63,7 +63,7 @@ header h3 {
 #nav_menu ul ul {
            display: none;
            position: absolute;
-           top: 100%
+           top: 100%;
 }
 
 /* the styles for the section */
