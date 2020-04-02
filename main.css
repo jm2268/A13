@@ -43,6 +43,7 @@ header h3 {
 }
 #nav_menu ul li{
 	  float: left;
+	  list-style-type: none;
 }
 #nav_menu ul li a { 
 	  display: block;
