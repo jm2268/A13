@@ -72,10 +72,10 @@ header h3 {
 #nav_menu ul li:hover > ul { 
 	    display: block;
 }
-#nav_menu > ul :: after {
-	    content:"";
+#nav_menu > ul::after {
+	    content: "";
 	    clear: both;
-	    display block;
+	    display: block;
 }	
 
 /* the styles for the section */
