@@ -40,6 +40,7 @@ header h3 {
 	 list-style-type: none;
          margin: 0;
 	 padding: 0;
+	 position: relative;
 }
 #nav_menu ul li{
 	  float: left;
